@@ -11,11 +11,17 @@ const Footer = () => {
       <div>
         <h5>Follow Us</h5>
         <div>
-          <a href="https://youtube.com/" target={"blank"}>
-            Youtube
+          <a
+            href="https://abhishek-goyal-portfolio.netlify.app/"
+            target={"blank"}
+          >
+            Portfolio
           </a>
-          <a href="https://instagram.com/_abbygoyal" target={"blank"}>
-            Instagram
+          <a
+            href="https://www.linkedin.com/in/abhishek-goyal-7a9778160"
+            target={"blank"}
+          >
+            Linkedin
           </a>
           <a href="https://github.com/abbygoyal" target={"blank"}>
             Github
