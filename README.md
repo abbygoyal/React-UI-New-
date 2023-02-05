@@ -4,7 +4,7 @@ React-responsive userinterface
 
 ## Live Project Link
 
-[React-responsive-UI](https://abhishek-goyal-portfolio.netlify.app/)
+[React-responsive-UI](https://react-ui-new.netlify.app/)
 
 # How to fork and clone
 
