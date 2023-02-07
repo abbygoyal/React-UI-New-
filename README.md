@@ -1,6 +1,6 @@
 ## REACT-UI
 
-React-responsive userinterface
+React-responsive userinterface.
 
 ## Live Project Link
 
